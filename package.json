@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "*",
+    "net": "^1.0.2",
+    "ramda": "^0.27.1"
+  },
+  "name": "ftp_kantola",
+  "version": "1.0.0",
+  "description": "Simple FTP Example",
+  "devDependencies": {},
+  "scripts": {
+    "start:sender": "node sender.js",
+    "start:receiver": "node receiver.js"
+  },
+  "author": "Kayla Kantola",
+  "license": "ISC"
+}
